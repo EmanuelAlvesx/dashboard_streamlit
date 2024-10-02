@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import plotly as plt
 import plotly.express as px
 import altair as alt
-from vega_datasets import data
 
 st.set_page_config(layout="wide")
 
